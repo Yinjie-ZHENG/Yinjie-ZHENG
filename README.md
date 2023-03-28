@@ -5,7 +5,7 @@
 My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) visitor
 
 
-# I'm Zheng Yinjie <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+# 我是 Zheng Yinjie <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 - 🔭 I’m currently working on **NUS Media Research Lab**
 - 🌱 I’m currently learning **CV, deep learning, machine learning**
@@ -14,10 +14,17 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) 
 - 📫 How to reach me: **e0674482@u.nus.edu**
 - 😄 You may like [Zhihu](https://www.zhihu.com/people/zheng-yin-jie-91/posts)
 
-# About My Github
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas-Wong)](https://github.com/Christmas-Wong/github-readme-stats)
+# 项目经验
+基于图像embedding搜索的用于伪造视频检测的自适应建模方法 								2022.10-2023.01
+	项目描述: 针对Deepfake检测模型容易受到对抗样本攻击的威胁，基于白盒攻击和度量学习的原理，结合模型微调方法，提出了一种能防御对抗攻击的Deepfake检测技术。该方法在FaceForensics++数据集中，在没有经过对抗样本训练的情况下，面对白盒攻击展现出更强的鲁棒性。该项目通过Pytorch框架实现。
+	项目成果: Xception模型在经过对抗样本的攻击后，正确率从90.75%降低到1.04%，使用该技术能在没有经过对抗样本训练的情况下，使原有的Xception模型针对对抗攻击的正确率提升8.44%
+	项目角色：项目负责人
+	项目贡献：
+1.	设计并实现了提取图像embedding模块；
+2.	设计并实现了基于已提取的图像embedding，结合多种白盒攻击的相似图像搜索方案；
+3.	设计并实现了推理阶段post-training技术在Deepfake检测场景下防御对抗样本攻击的应用；使得该技术能应用于所有Deepfake检测模型（即插即用）；
+4.	项目代码的封装和项目管理工作
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christmas-Wong&show_icons=true&theme=tokyonight)
 
 # My Skill Set  
 <table><tr><td valign="top" width="33%">
