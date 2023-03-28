@@ -5,7 +5,8 @@
 My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) visitor
 
 
-# 我是 Zheng Yinjie <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+# 在这里，你可以看到更多简历上没写的，真实的 Zheng Yinjie <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+## YSKMM - You Should Know More About Me
 
 - 🔭 I’m currently working on **NUS Media Research Lab**
 - 🌱 I’m currently learning **CV, deep learning, machine learning**
@@ -14,8 +15,8 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) 
 - 📫 How to reach me: **e0674482@u.nus.edu**
 - 😄 You may like [Zhihu](https://www.zhihu.com/people/zheng-yin-jie-91/posts)
 
-# YSKMM - You Should Know More About Me
-# 项目经验（更多简历上没写的）
+
+# 项目经验
 
 1. 基于图像embedding搜索的用于伪造视频检测的自适应建模方法 - 201508- 201512 
     * 项目描述: 针对Deepfake检测模型容易受到对抗样本攻击的威胁，基于白盒攻击和度量学习的原理，结合模型微调方法，提出了一种能防御对抗攻击的Deepfake检测技术。该方法在FaceForensics++数据集中，在没有经过对抗样本训练的情况下，面对白盒攻击展现出更强的鲁棒性。该项目通过Pytorch框架实现。
