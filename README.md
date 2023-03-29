@@ -9,10 +9,15 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) 
  YSKMM - You Should Know More about Me 👋
 
 - 🔭 I’m currently working as **Research Assistant** on **NUS Media Research Lab**
+
 - 🌱 I’m currently learning **CV, deep learning, machine learning**
+
 - 👯 Currently in **Singapore**
+
 - 💬 Ask me about Deep Learning, Python and my projects
+
 - 📫 How to reach me: **e0674482@u.nus.edu**
+
 - 😄 You may like [Zhihu](https://www.zhihu.com/people/zheng-yin-jie-91/posts)
 
 
