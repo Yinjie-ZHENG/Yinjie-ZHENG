@@ -7,7 +7,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) 
 
 # 在这里，你可以看到更多简历上没写的，真实的 Zheng Yinjie <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
  YSKMM - You Should Know More about Me 👋
-<img src="https://github.com/Yinjie-ZHENG/Yinjie-ZHENG/blob/main/202303299.jpg" width="250" height="350" align='right'>
+<img src="https://github.com/Yinjie-ZHENG/Yinjie-ZHENG/blob/main/202303299.jpg" width="250"  align='right'>
 
 - 🔭 I’m currently working as **Research Assistant** on **NUS Media Research Lab**
 
