@@ -5,8 +5,8 @@
 My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) visitor
 
 
-# 在这里，你可以看到更多简历上没写的，真实的 Zheng Yinjie <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-## YSKMM - You Should Know More About Me
+# 在这里，你可以看到更多简历上没写的，真实的 Zheng Yinjie <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+<h2> YSKMM - You Should Know More about Me </h2>
 
 - 🔭 I’m currently working as **Research Assistant** on **NUS Media Research Lab**
 - 🌱 I’m currently learning **CV, deep learning, machine learning**
