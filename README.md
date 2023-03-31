@@ -37,7 +37,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) 
   2.	设计并实现了基于已提取的图像embedding，结合多种白盒攻击的相似图像搜索方案；
   3.	设计并实现了推理阶段post-training技术在Deepfake检测场景下防御对抗样本攻击的应用；使得该技术能应用于所有Deepfake检测模型（即插即用）；
   4.	项目代码的封装和项目管理工作
-> Github at [SoftNEP](https://softnep.com)
+> 项目地址 at [Github](Adaptive-Modelling-for-Deepfake-Detection-using-post-trai)
 
 
 
