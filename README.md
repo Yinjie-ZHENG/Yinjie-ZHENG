@@ -20,8 +20,8 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) 
 - 📫 How to reach me: **e0674482@u.nus.edu**
 
 - 😄 You may like [Zhihu](https://www.zhihu.com/people/zheng-yin-jie-91/posts)
-- [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Yinjie-ZHENG)
-- [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Yinjie-ZHENG)
+- [![GitHub Thaiane](https://img.shields.io/badge/Stars-7k-lightgrey?logo=github&style=social)](https://github.com/Yinjie-ZHENG)
+- [![Zhihu](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-Zed%20Ranger-blue)](https://www.zhihu.com/people/zheng-yin-jie-91)
 - 
 ## 教育经历
    
