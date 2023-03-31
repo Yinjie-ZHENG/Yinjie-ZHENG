@@ -27,8 +27,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) 
 * 广东工业大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2015.09~2019.07&emsp;&emsp;&emsp;&emsp; 机械设计制造及其自动化-学士学位  
 
 ## 项目经验
-
-**基于图像embedding搜索的用于伪造视频检测的自适应建模方法** <p align="right">2022.10-2023.01</p>
+$$**基于图像embedding搜索的用于伪造视频检测的自适应建模方法** \tag{2022.10-2023.01}$$ 
 * **项目描述**: 针对Deepfake检测模型容易受到对抗样本攻击的威胁，基于白盒攻击和度量学习的原理，结合模型微调方法，提出了一种能防御对抗攻击的Deepfake检测技术。该方法在FaceForensics++数据集中，在没有经过对抗样本训练的情况下，面对白盒攻击展现出更强的鲁棒性。该项目通过Pytorch框架实现。
 * **项目成果**: Xception模型在经过对抗样本的攻击后，正确率从90.75%降低到1.04%，使用该技术能在没有经过对抗样本训练的情况下，使原有的Xception模型针对对抗攻击的正确率提升8.44%
 * **项目角色**：项目负责人
