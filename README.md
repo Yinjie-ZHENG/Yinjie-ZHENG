@@ -34,9 +34,9 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) 
 * **项目角色**：项目负责人
 * **项目贡献**：
   1. 设计并实现了提取图像embedding模块；
-  *	设计并实现了基于已提取的图像embedding，结合多种白盒攻击的相似图像搜索方案；
-  *	设计并实现了推理阶段post-training技术在Deepfake检测场景下防御对抗样本攻击的应用；使得该技术能应用于所有Deepfake检测模型（即插即用）；
-  *	项目代码的封装和项目管理工作
+  2.	设计并实现了基于已提取的图像embedding，结合多种白盒攻击的相似图像搜索方案；
+  3.	设计并实现了推理阶段post-training技术在Deepfake检测场景下防御对抗样本攻击的应用；使得该技术能应用于所有Deepfake检测模型（即插即用）；
+  4.	项目代码的封装和项目管理工作
 
 
 
