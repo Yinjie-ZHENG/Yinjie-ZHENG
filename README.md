@@ -20,7 +20,9 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) 
 - 📫 How to reach me: **e0674482@u.nus.edu**
 
 - 😄 You may like [Zhihu](https://www.zhihu.com/people/zheng-yin-jie-91/posts)
-
+- [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Yinjie-ZHENG)
+- [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Yinjie-ZHENG)
+- 
 ## 教育经历
    
 * 新加坡国立大学&emsp;&emsp;&emsp;&emsp;&emsp;2021.01~2023.01&emsp;&emsp;&emsp;&emsp; 计算机科学 - 硕士学位         
