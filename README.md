@@ -106,16 +106,16 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) 
 
 
 
-<div style="display:none">* 运用了那些技术，技术难点是
-* 效果如何
-* demo演示地址，github地址 
+;* 运用了那些技术，技术难点是
+;* 效果如何
+;* demo演示地址，github地址 
 
-2. 公司/学校 - XX游戏 - 负责后端开发 - 201309- 201401 
-    * 具体功能 
-    * 运用了那些技术，技术难点是
-    * 效果如何
-    * demo演示地址，github地址 
- </div>
+;2. 公司/学校 - XX游戏 - 负责后端开发 - 201309- 201401 
+;    * 具体功能 
+;    * 运用了那些技术，技术难点是
+;    * 效果如何
+;    * demo演示地址，github地址 
+
 
 
 # My Skill Set  
