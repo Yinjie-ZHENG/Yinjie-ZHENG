@@ -28,7 +28,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) 
 
 ## 项目经验
 
-1. 基于图像embedding搜索的用于伪造视频检测的自适应建模方法&emsp;&emsp;&emsp;&emsp;&emsp; 2022.10-2023.01
+1. 基于图像embedding搜索的用于伪造视频检测的自适应建模方法&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2022.10-2023.01
     * 项目描述: 针对Deepfake检测模型容易受到对抗样本攻击的威胁，基于白盒攻击和度量学习的原理，结合模型微调方法，提出了一种能防御对抗攻击的Deepfake检测技术。该方法在FaceForensics++数据集中，在没有经过对抗样本训练的情况下，面对白盒攻击展现出更强的鲁棒性。该项目通过Pytorch框架实现。
     * 运用了那些技术，技术难点是
     * 效果如何
