@@ -27,7 +27,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) 
 * 广东工业大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2015.09~2019.07&emsp;&emsp;&emsp;&emsp; 机械设计制造及其自动化-学士学位  
 
 ## 项目经验
-**基于图像embedding搜索的用于伪造视频检测的自适应建模方法																																																																																								2022.10-2023.01**
+**基于图像embedding搜索的用于伪造视频检测的自适应建模方法&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2022.10-2023.01**
 
 
 
@@ -44,8 +44,6 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) 
 
 
 **用于防御对抗攻击的自适应建模方法&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2022.11-2023.01**
-
-$$1111$$
 
 * **项目描述**: 针对神经网络容易受到对抗样本攻击的威胁，基于白盒攻击的原理，结合模型微调方法，提出了一种能防御不同类型对抗攻击的技术。在CIFAR-10、MNIST和Tiny ImageNet数据集中，面对白盒攻击具备更强的鲁棒性。该项目通过Pytorch框架实现。
 * **项目成果**: 面对不同对抗样本的攻击（Fgsm, Pgd等攻击方法），该技术分别在CIFAR-10，MNIST和Tiny ImageNet数据集获得7.5%，0.82%和1.33%的鲁棒性提升
