@@ -24,7 +24,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) 
 ## 教育经历
    
 * 新加坡国立大学&emsp;&emsp;&emsp;&emsp;&emsp;2021.01~2023.01&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-硕士学位         
-* 广东工业大学	 &emsp;&emsp;&emsp;&emsp;&emsp;2015.9~2019.7&emsp;&emsp;&emsp;&emsp; 机械设计制造及其自动化-学士学位  
+* 广东工业大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2015.09~2019.07&emsp;&emsp;&emsp;&emsp; 机械设计制造及其自动化-学士学位  
 
 # 项目经验
 
