@@ -173,3 +173,12 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) 
 </td></tr></table>  
 
 <br/>  
+比赛经历                                                                                   
+AI Singapore Trusted Media Challenge					伪造视频检测				排名第14			2021.12
+Deepfake Detection Challenge 						伪造视频检测	 			银牌 				2020.04
+SIIM-ACR Pneumothorax Segmentation 				医学图像分割 			银牌 				2019.09
+Generative Dog Images								生成对抗网络/图像生成 	铜牌 				2019.08
+Jigsaw Unintended Bias in Toxicity Classification 			自然语言处理 			铜牌 				2019.07
+
+专利                                                                                    
+(CN:2019108208000)(实质审查阶段)：一种晶体材料图像识别方法及装置
