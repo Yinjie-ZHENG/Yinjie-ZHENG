@@ -110,10 +110,16 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) 
   3.	使用OCR检测技术对用户上传的运动APP界面截图自动获取卡路里消耗量；
   4.	使用目标检测模型检测用户上传的食物图片自动获取卡路里摄入量；设计并实现了宠物管理系统，将每日的卡路里消耗量转化为宠物币，宠物币可以购买食物和玩具用以增加宠物的饥饿值和快乐值；
 
+> **项目地址** at [Github](https://github.com/Yinjie-ZHENG/ProjectCupcake)
 
-> 项目地址 at [Github](https://github.com/Yinjie-ZHENG/ProjectCupcake)
+# 自我发电时间的一些小作品
+**基于人脸特征点检测的自动开火程序**
+* **作品描述**: 基于OpenCV的人脸特征点检测开发的用于Apex的自动开火程序。根据人脸特征点提取并计算人脸嘴部张开面积，模拟键盘鼠标输出后控制开火。
+* **项目截图**：
+![image](https://user-images.githubusercontent.com/86654879/229297560-143fedcf-0d67-49e4-9ac0-572e9da0dc14.png)
 
-
+* **项目成果**：（13万播放诶真的不点进来看一看吗）
+> **视频地址** at [Bilibili](https://www.bilibili.com/video/BV1VV4y137kx/)
 
 # My Skill Set  
 <table><tr><td valign="top" width="33%">
