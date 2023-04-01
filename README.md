@@ -111,7 +111,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) 
   4.	使用目标检测模型检测用户上传的食物图片自动获取卡路里摄入量；设计并实现了宠物管理系统，将每日的卡路里消耗量转化为宠物币，宠物币可以购买食物和玩具用以增加宠物的饥饿值和快乐值；
 
 
-> 项目地址 at [Github]()
+> 项目地址 at [Github](https://github.com/Yinjie-ZHENG/ProjectCupcake)
 
 
 
