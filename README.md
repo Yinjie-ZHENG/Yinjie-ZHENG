@@ -43,6 +43,8 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) 
 
 
 
+
+
 **用于防御对抗攻击的自适应建模方法&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2022.11-2023.01**
 
 * **项目描述**: 针对神经网络容易受到对抗样本攻击的威胁，基于白盒攻击的原理，结合模型微调方法，提出了一种能防御不同类型对抗攻击的技术。在CIFAR-10、MNIST和Tiny ImageNet数据集中，面对白盒攻击具备更强的鲁棒性。该项目通过Pytorch框架实现。
@@ -55,6 +57,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) 
 
 > **项目地址** at [Github](https://github.com/Yinjie-ZHENG/Adaptive-Modelling-Against-Adversarial-Attacks-using-post-train)
 > **项目报告** at [![Report](https://img.shields.io/badge/%E9%A1%B9%E7%9B%AE%E6%8A%A5%E5%91%8A-%20-blue)](https://github.com/Yinjie-ZHENG/Adaptive-Modelling-Against-Adversarial-Attacks-using-post-train/blob/main/report_tinyimagenet.pdf)
+
 
 
 
@@ -81,6 +84,8 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) 
   1.	实现了使用非深度学习的方法进行人脸表情迁移；
   2.	设计并实现了本项目的corresponding search部分；
   3.	通过与组员和Leow Wee Kheng教授的多次有效沟通，展现了良好的团队合作和沟通能力；
+> **项目报告** at [![Report](https://img.shields.io/badge/%E9%A1%B9%E7%9B%AE%E6%8A%A5%E5%91%8A-%20-blue)](https://github.com/Yinjie-ZHENG/Project3dfacetransfer/blob/main/CS5240%20Project%20Slides%20%5BNew%5D.pdf)
+
 
 
 
