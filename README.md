@@ -115,10 +115,11 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) 
 # 自我发电时间的一些小作品
 **基于人脸特征点检测的自动开火程序**
 * **作品描述**: 基于OpenCV的人脸特征点检测开发的用于Apex的自动开火程序。根据人脸特征点提取并计算人脸嘴部张开面积，模拟键盘鼠标输出后控制开火。
+* **项目成果**：（13万播放诶真的不点进来看一看吗）
 * **项目截图**：
 ![image](https://user-images.githubusercontent.com/86654879/229297560-143fedcf-0d67-49e4-9ac0-572e9da0dc14.png)
 
-* **项目成果**：（13万播放诶真的不点进来看一看吗）
+
 > **视频地址** at [Bilibili](https://www.bilibili.com/video/BV1VV4y137kx/)
 
 **基于声音激昂程度控制的“智能”技能释放程序**
