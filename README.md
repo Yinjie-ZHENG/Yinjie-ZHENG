@@ -40,6 +40,8 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) 
   4.	项目代码的封装和项目管理工作
 > 项目地址 at [Github](https://github.com/Yinjie-ZHENG/Adaptive-Modelling-for-Deepfake-Detection-using-post-train)
 
+> 项目报告 at [![Report](https://img.shields.io/badge/%E9%A1%B9%E7%9B%AE%E6%8A%A5%E5%91%8A-%20-blue)](https://github.com/Yinjie-ZHENG/Adaptive-Modelling-for-Deepfake-Detection-using-post-train/blob/main/report_deepfake.pdf)
+
 
 
 **用于防御对抗攻击的自适应建模方法&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2022.11-2023.01**
@@ -54,8 +56,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) 
 
 > 项目地址 at [Github](https://github.com/Yinjie-ZHENG/Adaptive-Modelling-Against-Adversarial-Attacks-using-post-train)
 
-> 项目报告 at [Github](https://github.com/Yinjie-ZHENG/Adaptive-Modelling-Against-Adversarial-Attacks-using-post-train/blob/main/report_tinyimagenet.pdf)
-
+> 项目报告 at [![Report](https://img.shields.io/badge/%E9%A1%B9%E7%9B%AE%E6%8A%A5%E5%91%8A-%20-blue)](https://github.com/Yinjie-ZHENG/Adaptive-Modelling-Against-Adversarial-Attacks-using-post-train/blob/main/report_tinyimagenet.pdf)
 
 
 
