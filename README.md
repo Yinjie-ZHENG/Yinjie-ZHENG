@@ -120,6 +120,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) 
 ![image](https://user-images.githubusercontent.com/86654879/229297560-143fedcf-0d67-49e4-9ac0-572e9da0dc14.png)
 
 
+> **项目地址** at [Github](https://github.com/Yinjie-ZHENG/Apex_autofire)
 > **视频地址** at [Bilibili](https://www.bilibili.com/video/BV1VV4y137kx/)
 
 **基于声音激昂程度控制的“智能”技能释放程序**
