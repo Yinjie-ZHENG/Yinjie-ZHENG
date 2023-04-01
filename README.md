@@ -95,8 +95,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) 
   2.	通过EDA分析滤除无效标注，完成数据清洗和数据增强；
   3.	训练多个图像分割模型并融合输出结果，最终对每个晶粒输出分割结果；
   4.	对晶粒的分割结果进行形状拟合，将需要的分析结果（如拟合椭圆的长短轴数据）导出为表格；
-
-> 项目地址 at [Github]()
+> 项目报告 at [![Report](https://img.shields.io/badge/%E9%A1%B9%E7%9B%AE%E6%8A%A5%E5%91%8A-%20-blue)](https://github.com/Yinjie-ZHENG/ProjectSEM/blob/main/Undergraduate%20research%20project%20details%20(1).pdf)
 
 
 **帮助健身运动人群快速上传卡路里摄入及消耗的网页设计&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2021.10-2021.12**
