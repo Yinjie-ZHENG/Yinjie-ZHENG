@@ -38,9 +38,8 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) 
   2.	设计并实现了基于已提取的图像embedding，结合多种白盒攻击的相似图像搜索方案；
   3.	设计并实现了推理阶段post-training技术在Deepfake检测场景下防御对抗样本攻击的应用；使得该技术能应用于所有Deepfake检测模型（即插即用）；
   4.	项目代码的封装和项目管理工作
-> 项目地址 at [Github](https://github.com/Yinjie-ZHENG/Adaptive-Modelling-for-Deepfake-Detection-using-post-train)
-
-> 项目报告 at [![Report](https://img.shields.io/badge/%E9%A1%B9%E7%9B%AE%E6%8A%A5%E5%91%8A-%20-blue)](https://github.com/Yinjie-ZHENG/Adaptive-Modelling-for-Deepfake-Detection-using-post-train/blob/main/report_deepfake.pdf)
+> **项目地址** at [Github](https://github.com/Yinjie-ZHENG/Adaptive-Modelling-for-Deepfake-Detection-using-post-train)
+> **项目报告** at [![Report](https://img.shields.io/badge/%E9%A1%B9%E7%9B%AE%E6%8A%A5%E5%91%8A-%20-blue)](https://github.com/Yinjie-ZHENG/Adaptive-Modelling-for-Deepfake-Detection-using-post-train/blob/main/report_deepfake.pdf)
 
 
 
@@ -54,8 +53,8 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) 
   2.	实现了可自定义对抗攻击手段的功能，以应对未来需要的多种新的对抗攻击方法；
   3.	项目代码的封装和项目管理工作
 
-> 项目地址 at [Github](https://github.com/Yinjie-ZHENG/Adaptive-Modelling-Against-Adversarial-Attacks-using-post-train)
-> 项目报告 at [![Report](https://img.shields.io/badge/%E9%A1%B9%E7%9B%AE%E6%8A%A5%E5%91%8A-%20-blue)](https://github.com/Yinjie-ZHENG/Adaptive-Modelling-Against-Adversarial-Attacks-using-post-train/blob/main/report_tinyimagenet.pdf)
+> **项目地址** at [Github](https://github.com/Yinjie-ZHENG/Adaptive-Modelling-Against-Adversarial-Attacks-using-post-train)
+> **项目报告** at [![Report](https://img.shields.io/badge/%E9%A1%B9%E7%9B%AE%E6%8A%A5%E5%91%8A-%20-blue)](https://github.com/Yinjie-ZHENG/Adaptive-Modelling-Against-Adversarial-Attacks-using-post-train/blob/main/report_tinyimagenet.pdf)
 
 
 
@@ -94,7 +93,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) 
   2.	通过EDA分析滤除无效标注，完成数据清洗和数据增强；
   3.	训练多个图像分割模型并融合输出结果，最终对每个晶粒输出分割结果；
   4.	对晶粒的分割结果进行形状拟合，将需要的分析结果（如拟合椭圆的长短轴数据）导出为表格；
-> 项目报告 at [![Report](https://img.shields.io/badge/%E9%A1%B9%E7%9B%AE%E6%8A%A5%E5%91%8A-%20-blue)](https://github.com/Yinjie-ZHENG/ProjectSEM/blob/main/Undergraduate%20research%20project%20details%20(1).pdf)
+> **项目报告** at [![Report](https://img.shields.io/badge/%E9%A1%B9%E7%9B%AE%E6%8A%A5%E5%91%8A-%20-blue)](https://github.com/Yinjie-ZHENG/ProjectSEM/blob/main/Undergraduate%20research%20project%20details%20(1).pdf)
 
 
 **帮助健身运动人群快速上传卡路里摄入及消耗的网页设计&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2021.10-2021.12**
