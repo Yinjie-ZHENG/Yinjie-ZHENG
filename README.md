@@ -121,6 +121,14 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) 
 * **项目成果**：（13万播放诶真的不点进来看一看吗）
 > **视频地址** at [Bilibili](https://www.bilibili.com/video/BV1VV4y137kx/)
 
+**基于声音激昂程度控制的“智能”技能释放程序**
+* **作品描述**: 基于声音激昂程度控制的“智能”技能释放程序。根据自动识别人说话的内容并计算分贝判断情绪激昂程度，情绪越激昂技能释放越快，模拟键盘鼠标输出后控制技能释放。
+* **项目截图**：
+![image](https://user-images.githubusercontent.com/86654879/229297870-5bcdca30-e035-4645-adf4-d5fb675c3708.png)
+
+> **视频地址** at [Bilibili](https://www.bilibili.com/video/BV1AG4y1f7bh/)
+
+
 # My Skill Set  
 <table><tr><td valign="top" width="33%">
 
