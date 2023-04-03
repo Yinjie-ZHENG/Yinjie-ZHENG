@@ -22,7 +22,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) 
 - 😄 You may like my [![Zhihu](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-Zed%20Ranger-blue)](https://www.zhihu.com/people/zheng-yin-jie-91) [![GitHub Thaiane](https://img.shields.io/badge/Stars-7k-lightgrey?logo=github&style=social)](https://github.com/Yinjie-ZHENG) [![Bilibili](https://img.shields.io/badge/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-%E5%90%8D%E5%AD%97%E4%B8%80%E5%AE%9A%E5%BE%97%E9%95%BF-lightgrey)](https://space.bilibili.com/2389945)
 ## 教育经历
    
-* 新加坡国立大学&emsp;&emsp;&emsp;&emsp;&emsp;2021.01~2023.01&emsp;&emsp;&emsp;&emsp; 计算机科学 - 硕士学位         
+* 新加坡国立大学&emsp;&emsp;&emsp;&emsp;&emsp;2021.01~Now&emsp;&emsp;&emsp;&emsp; 计算机科学 - 硕士学位         
 * 广东工业大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2015.09~2019.07&emsp;&emsp;&emsp;&emsp; 机械设计制造及其自动化-学士学位  
 
 ## 项目经验
